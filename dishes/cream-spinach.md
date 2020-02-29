@@ -1,5 +1,7 @@
 # Cream Baby Spinach
 
+<img src="../assets/cream-spinach.jpg" width="50%" />
+
 ## 2020-02-27 試做 #3
 
 - 兩包 tesco 買的 baby spinach 
@@ -7,9 +9,8 @@
 - 6 瓣蒜頭
 - 半顆小洋蔥
 
-## 步驟
-<img src="../assets/cream-spinach.jpg" width="50%" />
 
+## 步驟
 #### 煮菜
 1. 深鍋開大火加入奶油融化
 2. 加入 baby spinach，拌勻，蓋起來，維持大火
