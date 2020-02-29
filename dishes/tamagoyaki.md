@@ -1,6 +1,6 @@
 # 玉子燒
 
-<img src="assets/tamagoyaki.jpg" width=50% />
+<img src="../assets/tamagoyaki.jpg" width="50%" />
 
 ## 2020-02-29 平底鍋試做 #3
 - 無鹽奶油
